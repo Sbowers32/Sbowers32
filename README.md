@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+hello my name is Stephon Bowers new to all this but learning so much day-to-day
 <!--
 **Sbowers32/Sbowers32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
